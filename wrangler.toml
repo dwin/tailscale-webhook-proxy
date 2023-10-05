@@ -1,4 +1,4 @@
-name = "tailscale-webhook-receiver"
+name = "tailscale-webhook-proxy"
 main = "src/index.ts"
 compatibility_date = "2023-10-02"
 
